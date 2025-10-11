@@ -1,4 +1,4 @@
-# Data Analyst Market  
+# Vietnam Data Related Jobs  
 ## Background and Description 
 - **Objective:** This project was developed to understand more profoundly the data analyst market through the findings of top-paid and in-demand skills for these roles.
 - **Main questions through these SQL queries:**
@@ -16,93 +16,19 @@
 
 ## Data Jobs Market Overview
 ### Countries with highest job postings
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>job_country</th>
-      <th>job_count</th>
-      <th>avg_salary</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>United States</td>
-      <td>206943</td>
-      <td>126017.59</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>India</td>
-      <td>51197</td>
-      <td>113768.01</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>United Kingdom</td>
-      <td>40439</td>
-      <td>109843.68</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>France</td>
-      <td>40028</td>
-      <td>105211.15</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>Germany</td>
-      <td>27782</td>
-      <td>115800.56</td>
-    </tr>
-    <tr>
-      <th>5</th>
-      <td>Spain</td>
-      <td>25123</td>
-      <td>107299.06</td>
-    </tr>
-    <tr>
-      <th>6</th>
-      <td>Singapore</td>
-      <td>23702</td>
-      <td>106535.45</td>
-    </tr>
-    <tr>
-      <th>7</th>
-      <td>Sudan</td>
-      <td>21519</td>
-      <td>135037.56</td>
-    </tr>
-    <tr>
-      <th>8</th>
-      <td>Netherlands</td>
-      <td>20673</td>
-      <td>115734.95</td>
-    </tr>
-    <tr>
-      <th>9</th>
-      <td>Italy</td>
-      <td>17073</td>
-      <td>93196.32</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+| Job Country       | Job Count | Average Salary (USD) |
+|-------------------|-----------|----------------------|
+| United States     | 206,943   | 126,017.59           |
+| India             | 51,197    | 113,768.01           |
+| United Kingdom    | 40,439    | 109,843.68           |
+| France            | 40,028    | 105,211.15           |
+| Germany           | 27,782    | 115,800.56           |
+| Spain             | 25,123    | 107,299.06           |
+| Singapore         | 23,702    | 106,535.45           |
+| Sudan             | 21,519    | 135,037.56           |
+| Netherlands       | 20,673    | 115,734.95           |
+| Italy             | 17,073    | 93,196.32            |
 
 
 - The USA remains the highest demand for data job postings with approximately 200,000 job postings.
