@@ -7,6 +7,7 @@ FROM job_postings_fact
     INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 WHERE job_title_short = 'Data Analyst'
     AND salary_year_avg IS NOT NULL
+    AND job_country = 'Vietnam'
 GROUP BY skills_dim.skill_id,
     skills_dim.skills
 ORDER BY skills_count DESC,
