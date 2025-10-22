@@ -27,7 +27,7 @@
 ## Data Jobs Market Overview
 ### Countries with highest job postings
 
-![](charts\global.jpg)
+![](charts/global.jpg)
 
 ### Top demanded roles in leading countries
 | Country | Job Title | Job Count | Average Salary |
