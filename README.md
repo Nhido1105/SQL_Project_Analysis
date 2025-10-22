@@ -125,13 +125,25 @@
 
 ### 3. Skills Required
 
+*(Kindly click on the images for interactive charts)*
 
-- (draw charts for comparing the required skills for each of the three job types)
+<p align="center">
+  <a href="https://public.flourish.studio/visualisation/25788452/" target="_blank">
+    <img src="charts/da_skills.png" alt="Data Analyst" width="45%">
+  </a>
+  <a href="https://public.flourish.studio/visualisation/25788452/" target="_blank">
+    <img src="charts/de_skills.png" alt="Data Engineer" width="45%">
+  </a>
+  <a href="https://public.flourish.studio/visualisation/25788452/" target="_blank">
+    <img src="charts/ds_skills.png" alt="Data Scientist" width="45%">
+  </a>
+</p>
+
 - **Data Engineer:** SQL, Python, Spark, Java, and other large database skills.
 - **Data Analyst:** SQL, Excel, Python, and visualization tools.
 - **Data Science:** Python, SQL, R, Spark, visualization tools, and large database skills.
-- Data Engineer and Data Analyst required SQL, and Python skills as one of the most important skill, with excel, and other data visualization tools such as power bi and tableau.
-- Data Scientist, however, 
+- Data Engineer, Data Analyst, and Data Scientist required SQL, and Python skills as one of the most important skill, with excel, and other data visualization tools such as power bi and tableau.
+- Also, Data Scientist required some other machine learning and large database skills. 
 
 ### 4. High Offered Salary Skills
 
