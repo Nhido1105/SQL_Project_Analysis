@@ -70,7 +70,12 @@
 
 ### 2. Top-paying data analyst jobs
 
-[![](charts/companies.png)](https://public.flourish.studio/visualisation/25781987/)
+[![](charts/DA.png)](https://public.flourish.studio/visualisation/25781987/)[![](charts/DA_salary.png)](https://public.flourish.studio/visualisation/25781987/)
+
+<p align="center">
+  <img src="charts/DE.png" alt="Chart 1" width="45%">
+  <img src="charts/DE_salary.png" alt="Chart 2" width="45%">
+</p>
 
 - Most of the top-paying data jobs are data analyst and data engineer, locating in Ho Chi Minh City, with the salary range from $40,000 to $200,000.
 - Data engineer is most demanded by Bosch Group, and KMS Technology. While Data analyst is inquired by Ninja Van, Geo Comply, Publicis Groupe, and Bosch Group. This is because the nature of the companies: 
