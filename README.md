@@ -27,7 +27,7 @@
 ## Data Jobs Market Overview
 ### Countries with highest job postings
 
-![Top job postings countries](project_sql\global.png)
+![Top job postings countries](charts\global.jpg)
 
 ### Top demanded roles in leading countries
 | Country | Job Title | Job Count | Average Salary |
@@ -50,7 +50,7 @@
 
 ### Vietnam Data Market
 
-![Vietnam Top Data Jobs](charts\vndata.png)
+![Vietnam Top Data Jobs](charts\vndata.jpg)
 
 | Job Count | Average Salary | Region |
 |---|---|---|
