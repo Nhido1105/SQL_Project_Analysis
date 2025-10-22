@@ -27,7 +27,7 @@
 ## Data Jobs Market Overview
 ### Countries with highest job postings
 
-![Top job postings countries](charts\global.png)
+![Top job postings countries](D:\Desktop\SQL_Project_Analysis\charts\global.png)
 
 - The USA remains the highest demand for data job postings with approximately more than 200,000 job postings.
 - India and Europe shows a growing demand for these roles.
