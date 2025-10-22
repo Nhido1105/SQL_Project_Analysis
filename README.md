@@ -50,7 +50,7 @@
 
 ### Vietnam Data Market
 
-![](charts\vndata.jpg)
+![](charts/vndata.jpg)
 
 | Job Count | Average Salary | Region |
 |---|---|---|
