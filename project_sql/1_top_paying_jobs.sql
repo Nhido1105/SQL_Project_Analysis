@@ -5,6 +5,7 @@ SELECT
     CASE 
         WHEN job_location LIKE '%Ho Chi Minh%' THEN 'Ho Chi Minh'
         WHEN job_location LIKE '%Hanoi%' THEN 'Hanoi'
+        WHEN job_location LIKE '%Da Nang%' THEN 'Da Nang'
         ELSE 'Other region'
     END AS region
 FROM job_postings_fact
@@ -15,11 +16,10 @@ ORDER BY vn_jobs DESC
 
 
 -- Top paying data and related jobs in Vietnam
-SELECT job_id,
+SELECT 
     job_title,
     job_title_short,
     job_location,
-    job_via,
     job_schedule_type,
     salary_year_avg,
     job_posted_date::date,
