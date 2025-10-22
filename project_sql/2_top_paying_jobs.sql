@@ -29,7 +29,8 @@ FROM job_postings_fact
 WHERE 
     salary_year_avg IS NOT NULL
     AND job_country = 'Vietnam'
-ORDER BY salary_year_avg DESC;
+ORDER BY salary_year_avg DESC
+LIMIT 20;
 
 
 -- Top data jobs demand from leading companies in Vietnam

@@ -73,7 +73,7 @@
 - Hanoi and other regions took up an amount of 546 and 658 job postings respectively.
 
 
-### 2. Top-paying data analyst jobs
+### 2. Top-paying Data Jobs
 
 *(Kindly click on the images for interactive charts)*
 
@@ -143,7 +143,7 @@
 - **Data Analyst:** SQL, Excel, Python, and visualization tools.
 - **Data Science:** Python, SQL, R, Spark, visualization tools, and large database skills.
 - Data Engineer, Data Analyst, and Data Scientist required SQL, and Python skills as one of the most important skill, with excel, and other data visualization tools such as power bi and tableau.
-- Also, Data Scientist required some other machine learning and large database skills. 
+
 
 ### 4. High Offered Salary Skills
 
