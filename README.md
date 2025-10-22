@@ -47,8 +47,9 @@
 - India and Europe shows a growing demand for these roles with Data Engineer and Data Analyst respectively.
 - The data job is concentrated in North America, along with significant opportunities in the Europe, and around Asia.
 
+## Insights Summary
 
-### Vietnam Data Market
+### 1. Vietnam Data Market
 
 ![](charts/vndata.jpg)
 
@@ -62,30 +63,29 @@
 - Ho Chi Minh has the highest number of data job postings in Vietnam, accounting for 1219 jobs.
 - Hanoi and other regions took up an amount of 546 and 658 job postings respectively.
 
-## Insights Summary
+
+### 2. Top-paying data analyst jobs
+
+[![Flourish Chart Preview](charts/Companies in Vietnam demanded data roles.png)](https://public.flourish.studio/visualisation/25781987/)
+
+- Most of the top-paying data jobs are data analyst and data engineer, locating in Ho Chi Minh City, with the salary range from $40,000 to $200,000.
+- Data engineer is most demanded by Bosch Group, and KMS Technology. While Data analyst is inquired by Ninja Van, Geo Comply, Publicis Groupe, and Bosch Group. This is because the nature of the companies: 
 
 
-### 1. Top-paying data analyst jobs
-
-
-- Most of the top-paying data jobs are data engineer, locating in Ho Chi Minh City, with the salary range from $147,500 to $200,000.
-- Data Analyst jobs 
-
-
-### 2. Skills Required
+### 3. Skills Required
 
 
 - (draw charts for comparing the required skills for each of the three job types)
 - Data Engineer and Data Analyst required SQL skills as the most important skill, with python, excel, and other data visualization tools such as power bi and tableau.
 
 
-### 3. High Offered Salary Skills
+### 4. High Offered Salary Skills
 
 - **Data Analyst:** Word, Looker and SQL are the top-paying skills with the salary ranged from $86,533 to $100,500.
 - **Data Engineer:** Snowflake is the highest paid salary skills that is vital for data engineer. This is followed by Power BI, Python, and Excel.
 - **Data Scientist:** The most important skills for this roles is C++, Javascript, and other tools that is vital for machine learning. 
 
-### 4. Optimal Skills 
+### 5. Optimal Skills 
 
 
 

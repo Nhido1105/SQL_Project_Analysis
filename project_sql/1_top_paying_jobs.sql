@@ -30,3 +30,18 @@ WHERE
     salary_year_avg IS NOT NULL
     AND job_country = 'Vietnam'
 ORDER BY salary_year_avg DESC;
+
+
+-- Top data jobs demand from leading companies in Vietnam
+SELECT 
+    name AS company_name,
+    job_title_short,
+    COUNT(job_id) AS job_count,
+    ROUND(AVG(salary_year_avg), 2) AS avg_salary
+FROM job_postings_fact
+    LEFT JOIN company_dim ON job_postings_fact.company_id = company_dim.company_id
+WHERE 
+    job_country = 'Vietnam'
+    AND salary_year_avg IS NOT NULL
+GROUP BY name, job_title_short
+ORDER BY job_count DESC;
