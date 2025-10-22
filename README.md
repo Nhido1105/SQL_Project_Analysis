@@ -12,11 +12,12 @@
 - **Objective:** This project was developed to understand more profoundly the data analyst market through the findings of top-paid and in-demand skills for these roles.
 - **Main questions through these SQL queries:**
 
-    1. What are the top-paying data analyst jobs?
-    2. What skills are required for these jobs?
-    3. What skills are most in demand for data analyst?
-    4. Which skills are associated with higher salaries?
-    5. What are the most optimal skills to learn? 
+    1. Overview of global data jobs market
+    2. What are the top-paying data analyst jobs?
+    3. What skills are required for these jobs?
+    4. What skills are most in demand for data analyst?
+    5. Which skills are associated with higher salaries?
+    6. What are the most optimal skills to learn? 
 
 - **Data Description:**
     - The dataset was observed in 2023 with ... jobs across the world.
@@ -74,7 +75,7 @@
 
 ### 2. Top-paying data analyst jobs
 
-*(Kindly click on the image for interactive charts)*
+*(Kindly click on the images for interactive charts)*
 
 <p align="center">
   <a href="https://public.flourish.studio/visualisation/25781987/" target="_blank">
