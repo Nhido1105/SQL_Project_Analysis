@@ -121,20 +121,30 @@
 
     </details>
 
-- While Bosch Group has a high number of job postings for both data roles, the average salaries are behind several companies, such as KMS Technology and Trusting Social.
+- While Bosch Group has a high number of job postings for both data roles, the average salaries are behind several other businesses, such as KMS Technology, Trusting Social, and Pulicis Groupe.
 
 ### 3. Skills Required
 
 
 - (draw charts for comparing the required skills for each of the three job types)
-- Data Engineer and Data Analyst required SQL skills as the most important skill, with python, excel, and other data visualization tools such as power bi and tableau.
-
+- **Data Engineer:** SQL, Python, Spark, Java, and other large database skills.
+- **Data Analyst:** SQL, Excel, Python, and visualization tools.
+- **Data Science:** Python, SQL, R, Spark, visualization tools, and large database skills.
+- Data Engineer and Data Analyst required SQL, and Python skills as one of the most important skill, with excel, and other data visualization tools such as power bi and tableau.
+- Data Scientist, however, 
 
 ### 4. High Offered Salary Skills
 
-- **Data Analyst:** Word, Looker and SQL are the top-paying skills with the salary ranged from $86,533 to $100,500.
-- **Data Engineer:** Snowflake is the highest paid salary skills that is vital for data engineer. This is followed by Power BI, Python, and Excel.
-- **Data Scientist:** The most important skills for this roles is C++, Javascript, and other tools that is vital for machine learning. 
+
+
+- **Data Engineer:** Snowflake is the highest paid salary skills that is vital for data engineer. This is followed by other database skills, Power BI, SQL, Python, and Excel, ranging from $45,000 to $147,500.
+- **Data Analyst:** Word, Looker and SQL are the top-paying skills with the salary ranged from $86,533 to $100,500, along with Power BI, Python, and Java.
+- **Data Scientist:** The most important skills for this roles is C++, Javascript, and other tools that is vital for machine learning. Python, Java, and some visualization tools are also needed. These skills are paid within the $50,000 - $200,000 range.
+
+
+#### By companies
+
+
 
 ### 5. Optimal Skills 
 
@@ -152,4 +162,4 @@
 - **Visual Studio Code:** Used for database management, the execution of SQL queries, and Python analysis.
 - **Git & GitHub:** Essential for version control and sharing SQL and Python scripts along with the analysis, ensuring collaboration, and project tracking.
 
-## Lesson learned
+## Recommendation
