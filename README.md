@@ -27,19 +27,7 @@
 ## Data Jobs Market Overview
 ### Countries with highest job postings
 
-| Job Country       | Job Count | Average Salary (USD) |
-|-------------------|-----------|----------------------|
-| United States     | 206,943   | 126,017.59           |
-| India             | 51,197    | 113,768.01           |
-| United Kingdom    | 40,439    | 109,843.68           |
-| France            | 40,028    | 105,211.15           |
-| Germany           | 27,782    | 115,800.56           |
-| Spain             | 25,123    | 107,299.06           |
-| Singapore         | 23,702    | 106,535.45           |
-| Sudan             | 21,519    | 135,037.56           |
-| Netherlands       | 20,673    | 115,734.95           |
-| Italy             | 17,073    | 93,196.32            |
-
+![Alt text](D:\Desktop\SQL_Project_Analysis\charts\global.png)
 
 - The USA remains the highest demand for data job postings with approximately more than 200,000 job postings.
 - India and Europe shows a growing demand for these roles.
