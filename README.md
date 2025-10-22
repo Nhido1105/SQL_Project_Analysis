@@ -27,29 +27,38 @@
 ## Data Jobs Market Overview
 ### Countries with highest job postings
 
-![Top job postings countries](D:\Desktop\SQL_Project_Analysis\charts\global.png)
+![Top job postings countries](charts\global.png)
 
-- The USA remains the highest demand for data job postings with approximately more than 200,000 job postings.
-- India and Europe shows a growing demand for these roles.
+### Top demanded roles in leading countries
+| Country | Job Title | Job Count | Average Salary |
+|---|---|---|---|
+| United States | Data Analyst | 67956 | 94503.55 |
+| India | Data Engineer | 19095 | 123312.39 |
+| France | Data Analyst | 13855 | 82156.34 |
+| United Kingdom | Data Engineer | 11828 | 115717.49 |
+| Sudan | Data Scientist | 8474 | 136385.76 |
+| Germany | Data Analyst | 7141 | 101563.06 |
+| Spain | Data Engineer | 6766 | 117345.25 |
+| Singapore | Data Analyst | 6642 | 94730.77 |
+| Netherlands | Data Engineer | 6604 | 107600.65 |
+| Canada | Data Engineer | 5839 | 119215.58 |
+
+- The USA remains the highest number of data job postings with approximately more than 200,000 job postings, in which Data Analyst is the highest demand.
+- India and Europe shows a growing demand for these roles with Data Engineer and Data Analyst respectively.
 - The data job is concentrated in North America, along with significant opportunities in the Europe, and around Asia.
 
 
 ### Vietnam Data Market
 
-| Job Title               | Job Count | Average Salary (USD) |
-|-------------------------|-----------|----------------------|
-| Data Engineer           | 768       | 98,508.19            |
-| Data Scientist          | 378       | 89,066.67            |
-| Data Analyst            | 338       | 90,842.45            |
-| Software Engineer       | 280       | 50,733.33            |
-| Senior Data Engineer    | 220       | 127,125.00           |
-| Machine Learning Engineer| 114      | 71,381.25            |
-| Senior Data Scientist   | 93        | 79,200.00            |
-| Business Analyst        | 91        | 74,400.00            |
-| Senior Data Analyst     | 71        | 100,512.50           |
-| Cloud Engineer          | 70        | —                    |
+![Vietnam Top Data Jobs](charts\vndata.png)
 
-- Vietnam had a high demand for data engineer, data scientist, and data analyst, in which data engineer accounted for ... in the market.
+| Job Count | Average Salary | Region |
+|---|---|---|
+| 1219 | 110977.792 | Ho Chi Minh |
+| 658 | 73269.548 | Other region |
+| 546 | 111175.000 | Hanoi |
+
+- Vietnam had a high demand for data engineer, data scientist, and data analyst, in which accounted for 31.7%, 15.6%, 13.9% respectively.
 - Ho Chi Minh has the highest number of data job postings in Vietnam, accounting for 1219 jobs.
 - Hanoi and other regions took up an amount of 546 and 658 job postings respectively.
 
