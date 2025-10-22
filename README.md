@@ -27,12 +27,9 @@
 ## Data Jobs Market Overview
 ### Countries with highest job postings
 
-<<<<<<< HEAD
-![](charts/global.png)
-=======
 ![](charts/global.jpg)
->>>>>>> 38be75182c82839c9cffa0b9f6cfd59b32fa0d3e
 
+<p align="center">
 ### Top demanded roles in leading countries
 | Country | Job Title | Job Count | Average Salary |
 |---|---|---|---|
@@ -46,6 +43,7 @@
 | Singapore | Data Analyst | 6642 | 94730.77 |
 | Netherlands | Data Engineer | 6604 | 107600.65 |
 | Canada | Data Engineer | 5839 | 119215.58 |
+</p>
 
 - The USA remains the highest number of data job postings with approximately more than 200,000 job postings, in which Data Analyst is the highest demand.
 - India and Europe shows a growing demand for these roles with Data Engineer and Data Analyst respectively.
@@ -57,11 +55,13 @@
 
 ![](charts/vndata.jpg)
 
+<p align="center">
 | Job Count | Average Salary | Region |
 |---|---|---|
 | 1219 | 110977.792 | Ho Chi Minh |
 | 658 | 73269.548 | Other region |
 | 546 | 111175.000 | Hanoi |
+</p>
 
 - Vietnam had a high demand for data engineer, data scientist, and data analyst, in which accounted for 31.7%, 15.6%, 13.9% respectively.
 - Ho Chi Minh has the highest number of data job postings in Vietnam, accounting for 1219 jobs.
@@ -70,11 +70,22 @@
 
 ### 2. Top-paying data analyst jobs
 
-[![](charts/DA.png)](https://public.flourish.studio/visualisation/25781987/)[![](charts/DA_salary.png)](https://public.flourish.studio/visualisation/25781987/)
+<p align="center">
+  <a href="https://public.flourish.studio/visualisation/25781987/" target="_blank">
+    <img src="charts/DE.png" alt="Data Engineer" width="45%">
+  </a>
+  <a href="https://public.flourish.studio/visualisation/25781987/" target="_blank">
+    <img src="charts/DE_salary.png" alt="Data Engineer Salary" width="45%">
+  </a>
+</p>
 
 <p align="center">
-  <img src="charts/DE.png" alt="Chart 1" width="45%">
-  <img src="charts/DE_salary.png" alt="Chart 2" width="45%">
+  <a href="https://public.flourish.studio/visualisation/25781987/" target="_blank">
+    <img src="charts/DA.png" alt="Data Analyst" width="45%">
+  </a>
+  <a href="https://public.flourish.studio/visualisation/25781987/" target="_blank">
+    <img src="charts/DA_salary.png" alt="Data Analyst Salary" width="45%">
+  </a>
 </p>
 
 - Most of the top-paying data jobs are data analyst and data engineer, locating in Ho Chi Minh City, with the salary range from $40,000 to $200,000.
