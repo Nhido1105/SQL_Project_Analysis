@@ -27,9 +27,9 @@
 ## Data Jobs Market Overview
 ### Countries with highest job postings
 
-![](charts/global.jpg)
+![](charts/global.png)
 
-<p align="center">
+<div align="center">
 
 ### Top demanded roles in leading countries
 | Country | Job Title | Job Count | Average Salary |
@@ -45,7 +45,7 @@
 | Netherlands | Data Engineer | 6604 | 107600.65 |
 | Canada | Data Engineer | 5839 | 119215.58 |
 
-</p>
+</div>
 
 - The USA remains the highest number of data job postings with approximately more than 200,000 job postings, in which Data Analyst is the highest demand.
 - India and Europe shows a growing demand for these roles with Data Engineer and Data Analyst respectively.
@@ -57,7 +57,7 @@
 
 ![](charts/vndata.jpg)
 
-<p align="center">
+<div align="center">
 
 | Job Count | Average Salary | Region |
 |---|---|---|
@@ -65,7 +65,7 @@
 | 658 | 73269.548 | Other region |
 | 546 | 111175.000 | Hanoi |
 
-</p>
+</div>
 
 - Vietnam had a high demand for data engineer, data scientist, and data analyst, in which accounted for 31.7%, 15.6%, 13.9% respectively.
 - Ho Chi Minh has the highest number of data job postings in Vietnam, accounting for 1219 jobs.
