@@ -13,9 +13,9 @@
 - **Main questions through these SQL queries:**
 
     1. Overview of global data jobs market
-    2. What are the top-paying data analyst jobs?
+    2. What are the top data jobs?
     3. What skills are required for these jobs?
-    4. What skills are most in demand for data analyst?
+    4. What skills are most in demand?
     5. Which skills are associated with higher salaries?
     6. What are the most optimal skills to learn? 
 
@@ -80,7 +80,7 @@
 #### Data jobs demand in Vietnam by region
 
 <a href="https://public.flourish.studio/visualisation/25799025/" target="_blank">
-    <img src="charts/VNdata_jobs.png" alt="Top Data Jobs" width="45%">
+    <img src="charts/VNdata_jobs.png" alt="Top Data Jobs">
   </a>
 
 
