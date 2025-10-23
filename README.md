@@ -148,31 +148,28 @@
 
 ### 4. High Offered Salary Skills
 
+*(Kindly click on the images for interactive charts)*
 
+<a href="https://public.flourish.studio/visualisation/25799859/" target="_blank">
+    <img src="charts/Top Valuable Skills.png" alt="Top Skills">
+  </a>
 
 - **Data Engineer:** Snowflake is the highest paid salary skills that is vital for data engineer. This is followed by other database skills, Power BI, SQL, Python, and Excel, ranging from $45,000 to $147,500.
-- **Data Analyst:** Word, Looker and SQL are the top-paying skills with the salary ranged from $86,533 to $100,500, along with Power BI, Python, and Java.
+- **Data Analyst:** Word, Looker and SQL are the most valuable skills with the salary ranged from $86,533 to $100,500, along with Power BI, Python, and Java.
 - **Data Scientist:** The most important skills for this roles is C++, Javascript, and other tools that is vital for machine learning. Python, Java, and some visualization tools are also needed. These skills are paid within the $50,000 - $200,000 range.
-
-
-#### By companies
-
-
-
-### 5. Optimal Skills 
-
-
-
-- **Data Analyst:** SQL is the most necessary in business since 8 out of 10 of the companies required this skills, following with power bi and python.
-- **Data Engineer:** Spark is the most important for this role, following with SQL and Python.
-- **Data Scientist:** Python and Java is required when applying since ...
 
 
 ## Tools Used
 - **SQL:** The main tool used for extracting, and ordering necessary data for further analysis.
 - **PostgreSQL:** The database management system for handling this dataset.
 - **Python:** Used for analyzing the extracted dataset, and visualizing charts.
+- **Flourish Studio:** Online visualization tools for quick charts illustrations.
 - **Visual Studio Code:** Used for database management, the execution of SQL queries, and Python analysis.
 - **Git & GitHub:** Essential for version control and sharing SQL and Python scripts along with the analysis, ensuring collaboration, and project tracking.
 
 ## Recommendation
+
+
+- **Data Analyst:** SQL is the most necessary in business since 8 out of 10 of the companies required this skills, following with power bi and python.
+- **Data Engineer:** Spark is the most important for this role, following with SQL and Python.
+- **Data Scientist:** Python and Java is required when applying since ...
