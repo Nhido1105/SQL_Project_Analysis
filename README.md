@@ -104,11 +104,11 @@
   </a>
 </p>
 
-- The top 3 data jobs are located in Ho Chi Minh City, with the salary ranging from $60,000 to $165,000.
-- Data engineer is most demanded by Bosch Group, and KMS Technology. Yet, Data analyst is inquired by Ninja Van, Geo Comply, Publicis Groupe, and Bosch Group. This is because the nature of the companies.
+- The top 3 data jobs are most from Ho Chi Minh City, with the salary ranging from $40,000 to $200,000.
+- Data engineer is most demanded by Bosch Group, and KMS Technology. Yet, data analyst is inquired by Ninja Van, Geo Comply, Publicis Groupe, and Bosch Group. This is because the nature of the companies.
 
     <details>
-    <summary><strong>Click to see explanations about companies</strong></summary>
+    <summary><strong>Further explanations about companies</strong></summary>
     <br>
 
     - **Bosch Group:**
@@ -136,17 +136,9 @@
 
 *(Kindly click on the images for interactive charts)*
 
-<p align="center">
-  <a href="https://public.flourish.studio/visualisation/25788452/" target="_blank">
-    <img src="charts/da_skills.png" alt="Data Analyst" width="45%">
+<a href="https://public.flourish.studio/visualisation/25788452/" target="_blank">
+    <img src="charts/vnskills.png" alt="Top Skills">
   </a>
-  <a href="https://public.flourish.studio/visualisation/25788452/" target="_blank">
-    <img src="charts/de_skills.png" alt="Data Engineer" width="45%">
-  </a>
-  <a href="https://public.flourish.studio/visualisation/25788452/" target="_blank">
-    <img src="charts/ds_skills.png" alt="Data Scientist" width="45%">
-  </a>
-</p>
 
 - **Data Engineer:** SQL, Python, Spark, Java, and other large database skills.
 - **Data Analyst:** SQL, Excel, Python, and visualization tools.
