@@ -1,4 +1,4 @@
-# Vietnam Data Related Jobs Market
+# Vietnam Data Jobs Market
 
 #### (charts summary of the findings)
 
@@ -9,18 +9,16 @@
 
 
 ## Background and Description 
-- **Objective:** This project was developed to understand more profoundly the data analyst market through the findings of top-paid and in-demand skills for these roles.
+- **Objective:** This project was developed to understand more profoundly the data jobs market in Vietnam through the findings of top-paid and in-demand skills for these roles.
 - **Main questions through these SQL queries:**
 
     1. Overview of global data jobs market
     2. What are the top data jobs?
     3. What skills are required for these jobs?
-    4. What skills are most in demand?
-    5. Which skills are associated with higher salaries?
-    6. What are the most optimal skills to learn? 
+    4. Which skills are the most valuable?
 
 - **Data Description:**
-    - The dataset was observed in 2023 with ... jobs across the world.
+    - The dataset was observed in 2023 with 787,686 total jobs across the world.
     - The data consists of 4 tables: company_dim, job_postings_fact, skills_dim, and skills_job_dim.
     - The insights are on job titles, locations, salaries, and important skills.
 
