@@ -38,7 +38,7 @@
 ![](charts/global.png)
 
 <details>
-    <summary><strong>Show hidden SQL code</strong></summary>
+    <summary><strong>Show hidden SQL statements</strong></summary>
     <br>
 
 ```sql
@@ -75,7 +75,7 @@ ORDER BY job_count DESC
 </div>
 
 <details>
-    <summary><strong>Show hidden SQL code</strong></summary>
+    <summary><strong>Show hidden SQL statements</strong></summary>
     <br>
 
 ```sql
@@ -122,7 +122,7 @@ ORDER BY job_count DESC
 ![](charts/vndata.jpg)
 
 <details>
-    <summary><strong>Show hidden SQL code</strong></summary>
+    <summary><strong>Show hidden SQL statements</strong></summary>
     <br>
 
 ```sql
@@ -152,7 +152,7 @@ ORDER BY job_count DESC
 </div>
 
 <details>
-    <summary><strong>Show hidden SQL code</strong></summary>
+    <summary><strong>Show hidden SQL statements</strong></summary>
     <br>
 
 ```sql
@@ -190,7 +190,7 @@ ORDER BY vn_jobs DESC
   </a>
 
 <details>
-    <summary><strong>Show hidden SQL code</strong></summary>
+    <summary><strong>Show hidden SQL statements</strong></summary>
     <br>
 
 ```sql
@@ -238,7 +238,7 @@ ORDER BY job_count DESC;
 </p>
 
 <details>
-    <summary><strong>Show hidden SQL code</strong></summary>
+    <summary><strong>Show hidden SQL statements</strong></summary>
     <br>
 
 ```sql
@@ -295,7 +295,7 @@ ORDER BY job_count DESC;
   </a>
 
 <details>
-    <summary><strong>Show hidden SQL code</strong></summary>
+    <summary><strong>Show hidden SQL statements</strong></summary>
     <br>
 
 ```sql
@@ -365,7 +365,7 @@ LIMIT 10;
   </a>
 
 <details>
-    <summary><strong>Show hidden SQL code</strong></summary>
+    <summary><strong>Show hidden SQL statements</strong></summary>
     <br>
 
 ```sql
