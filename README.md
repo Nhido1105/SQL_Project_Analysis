@@ -73,9 +73,18 @@
 - Hanoi and other regions took up an amount of 546 and 658 job postings respectively.
 
 
-### 2. Top-paying Data Jobs
+### 2. Top Data Jobs
 
 *(Kindly click on the images for interactive charts)*
+
+#### Data jobs demand in Vietnam by region
+
+<a href="https://public.flourish.studio/visualisation/25799025/" target="_blank">
+    <img src="charts/VNdata_jobs.png" alt="Top Data Jobs" width="45%">
+  </a>
+
+
+#### Top data jobs demand from leading companies in Vietnam
 
 <p align="center">
   <a href="https://public.flourish.studio/visualisation/25781987/" target="_blank">
@@ -95,7 +104,7 @@
   </a>
 </p>
 
-- Most of the top-paying data jobs are data engineer and data analyst, locating in Ho Chi Minh City, with the salary range from $40,000 to $200,000.
+- The top 3 data jobs are located in Ho Chi Minh City, with the salary ranging from $60,000 to $165,000.
 - Data engineer is most demanded by Bosch Group, and KMS Technology. Yet, Data analyst is inquired by Ninja Van, Geo Comply, Publicis Groupe, and Bosch Group. This is because the nature of the companies.
 
     <details>

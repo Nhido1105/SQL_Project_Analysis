@@ -33,6 +33,28 @@ ORDER BY salary_year_avg DESC
 LIMIT 20;
 
 
+-- Data jobs demand in Vietnam by region
+SELECT
+    CASE 
+        WHEN job_title_short LIKE '%Data Engineer%' THEN 'Data Engineer'
+        WHEN job_title_short LIKE '%Data Analyst%' THEN 'Data Analyst'
+        WHEN job_title_short LIKE '%Data Scientist%' THEN 'Data Scientist'
+        ELSE 'Other Data Related Jobs'
+    END AS title,
+    COUNT(job_id) AS job_count,
+    CASE 
+        WHEN job_location LIKE '%Ho Chi Minh%' THEN 'Ho Chi Minh'
+        WHEN job_location LIKE '%Hanoi%' THEN 'Hanoi'
+        WHEN job_location LIKE '%Da Nang%' THEN 'Da Nang'
+        ELSE 'Other region'
+    END AS region,
+    ROUND(AVG(salary_year_avg), 2) AS avg_salary
+FROM job_postings_fact
+WHERE job_country = 'Vietnam'
+GROUP BY title, region
+ORDER BY job_count DESC;
+
+
 -- Top data jobs demand from leading companies in Vietnam
 SELECT 
     name AS company_name,
